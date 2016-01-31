@@ -10,7 +10,8 @@ To add it to your IDE, just hit `File>Import Settings` in your IDE, and select t
 To apply it, go under `Editor>Color & Fonts` in the Settings window.
 
 ##Download
-[First version is available here](https://goo.gl/lGNYpd)
+[Version 1.0.1 is available here](https://goo.gl/eD2XnT).
+You can see the changelogs in the [releases tab](https://github.com/LouisCAD/GoogleDevelopersColorScheme/releases).
 
 ##Screenshots
 ![java screenshot](https://raw.githubusercontent.com/LouisCAD/GoogleDevelopersColorScheme/master/screenshots/GoogleDevs_ColorScheme_java.png)
