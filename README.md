@@ -17,6 +17,11 @@ You can see the changelogs in the [releases tab](https://github.com/LouisCAD/Goo
 ![java screenshot](https://raw.githubusercontent.com/LouisCAD/GoogleDevelopersColorScheme/master/screenshots/GoogleDevs_ColorScheme_java.png)
 ![xml screenshot](https://raw.githubusercontent.com/LouisCAD/GoogleDevelopersColorScheme/master/screenshots/GoogleDevs_ColorScheme_xml.png)
 
+##Which font on the screenshots?
+I have been asked the font I use. It's [Roboto Mono](https://www.google.com/fonts#UsePlace:use/Collection:Roboto+Mono) by [Google Design](https://design.google.com/).
+
+It looks very well including on Windows (if the font size isn't too small), even if font anti-aliasing isn't working properly. Note that I'm using Apple's JDK 6 to run Android Studio, and JDK 1.8 for Android Development itself.
+
 ##Why a light color scheme?
 A light color scheme will reduce eyestrain, compared to a dark one. Why? On a dark background, your eyes will adapt to low light conditions, so your pupils will open wide to let more light enter your eye. Fine. But the bright text on the dark background will burn your retina (not forever hopefully) as more light is allowed to enter your eye, which will cause eyestrain after extended watching. On a light background, your eyes don't allow that much light to go in your eyes, but you'll still see where the light is missing, i.e. the text.
 
