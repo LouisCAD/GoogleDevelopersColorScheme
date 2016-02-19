@@ -9,6 +9,11 @@ This color scheme works better with a light Look & Feel (default on Mac OS X).
 To add it to your IDE, just hit `File>Import Settings` in your IDE, and select the file you can download below.
 To apply it, go under `Editor>Color & Fonts` in the Settings window.
 
+###Compatibility
+This color scheme works starting from version 1.5.1 of Android Studio, and has also been tested on version 2.0 beta.
+
+It has not been tested on other Jetbrains IDEs such as IntelliJ, Webstorm, PhpStorm, etc, but should be compatible with recent versions as of early 2016 January.
+
 ##Download
 [Version 1.0.1 is available here](https://goo.gl/eD2XnT).
 You can see the changelogs in the [releases tab](https://github.com/LouisCAD/GoogleDevelopersColorScheme/releases).
